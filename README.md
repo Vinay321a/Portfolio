@@ -126,13 +126,3 @@ Feel free to reach out for project collaborations, freelance opportunities, or j
 ### Disclaimer
 The website is created and maintained by **Vinay Kumar Reddy Gadila** .
 
-## Footer Code (For Webpage):
-
-If you're working on a webpage (HTML), you can add a footer section at the bottom of your HTML file to display this message in a more visually engaging way:
-
-```html
-<!-- Footer Section -->
-<footer style="text-align: center; padding: 20px; background-color: #f1f1f1; margin-top: 50px; font-size: 16px;">
-    <p style="font-weight: bold; color: #333;">This webpage is created and maintained by <span style="color: #0073e6;">Vinay Kumar Reddy Gadila</span></p>
-    <p>Feel free to reach out for project collaborations or tech discussions!</p>
-</footer>
