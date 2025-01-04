@@ -1,20 +1,56 @@
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vinay Kumar Reddy Gadila - Full Stack Java Developer</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        /* Custom styles for the name at the top */
+        /* Custom styles for the header */
         .header {
-            text-align: center;
+            display: flex;
+            align-items: center; /* Vertically align items in the center */
             background-color: #f1f1f1;
-            padding: 50px 20px;
+            padding: 30px 20px;
             font-size: 36px;
             font-weight: bold;
             color: #0073e6; /* Blue color */
         }
+
+        /* Style for the profile image */
+        .header img {
+            width: 100px; /* Adjust size of the profile picture */
+            height: 100px;
+            border-radius: 50%; /* Make the image circular */
+            margin-right: 20px; /* Space between the image and name */
+        }
+
+        /* Subtitle style */
+        .header p.subtitle {
+            font-size: 20px;
+            font-weight: normal;
+            color: #333; /* Default text color */
+        }
     </style>
 </head>
+<body>
+    <!-- Header Section -->
+    <div class="header">
+        <!-- Profile Image -->
+        <img src="/assets/img/profile.jpg" alt="Vinay Kumar Reddy Gadila">
+
+        <!-- Name and Subtitle -->
+        <div>
+            <p>Vinay Kumar Reddy Gadila</p>
+            <p class="subtitle">Java Full Stack Developer</p>
+        </div>
+    </div>
+
+    <!-- Main content of the portfolio goes here -->
+    <div class="container">
+        <!-- Portfolio content such as sections, links, etc. -->
+    </div>
+</body>
+</html>
 
 ![Profile Image](assets/profile_pic.jpg) 
 
