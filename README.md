@@ -1,5 +1,6 @@
 <html lang="en">
 <head>
+        <style>
         /* Custom styles for the header */
         .header {
             display: flex;
