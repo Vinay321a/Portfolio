@@ -108,7 +108,6 @@ University of Dayton, 2023
 ## Personal Interests
 
 - **Open Source Contribution**: Actively contributing to various open-source projects, especially in Java and Spring ecosystems.
-- **Tech Blogging**: Sharing knowledge and tutorials on Java, Cloud technologies, and Full Stack development on [my blog](https://vinaykrgadila.com/blog).
 - **Fitness Enthusiast**: Passionate about health, fitness, and outdoor activities like hiking and cycling.
 
 ---
