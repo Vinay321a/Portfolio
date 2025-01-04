@@ -4,7 +4,7 @@
 
 **Phone**: (513) 916-4463  
 **E-Mail**: [Vinaykrgadila@gmail.com](mailto:Vinaykrgadila@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/vinayreddygadila) | [GitHub](https://github.com/vinaykrgadila) | [Personal Website](https://vinaykrgadila.com)  
+[LinkedIn](https://www.linkedin.com/in/vinayreddygadila) | [GitHub](https://github.com/vinaykrgadila) | [Personal Website](https://vinay321a.github.io/Portfolio/)  
 
 ---
 
