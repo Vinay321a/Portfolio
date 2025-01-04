@@ -1,12 +1,7 @@
-<html lang="en">
-        <!-- Name and Subtitle -->
-        <div>
-            <p color= #333 >Vinay Kumar Reddy Gadila</p>
-            <p class="subtitle">Java Full Stack Developer</p>
-        </div>
-</html>
+
 ![Profile Image](assets/profile_pic.jpg)
 
+## Java Full Stack Developer
 **Phone**: (513) 916-4463  
 **E-Mail**: [Vinaykrgadila@gmail.com](mailto:Vinaykrgadila@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/vinayreddygadila) | [GitHub](https://github.com/Vinay321a) | [Personal Website](https://vinay321a.github.io/Portfolio/)  
