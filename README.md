@@ -37,10 +37,9 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ## Professional Experience
 
+![Caltrans Logo](assets/img/caltrans-logo.png)
 ### **Client: Caltrans, San Francisco, CA** (Jan 2023 - Present)  
 **Role**: Full-stack Java Developer  
-![Caltrans Logo](assets/img/caltrans-logo.png)
-
 **Responsibilities**:
 - Designed responsive web UIs using **Angular 2**, **JavaScript**, **CSS**, and **Bootstrap**.
 - Developed backend services with **Spring Boot**, **Microservices**, and integrated with **AWS Lambda** for serverless architecture.
@@ -49,10 +48,9 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ---
 
+![Great American Insurance Logo](assets/img/great-american-insurance-logo.png)
 ### **Client: Great American Insurance, Cincinnati, OH** (Jan 2021 - Dec 2022)  
 **Role**: Full-stack Java Developer  
-![Great American Insurance Logo](assets/img/great-american-insurance-logo.png)
-
 **Responsibilities**:
 - Developed reusable **SOAP** and **RESTful APIs** for system integration using **JAX-WS**, **Spring Boot**.
 - Implemented **AWS Infrastructure** with **EC2**, **S3**, **RDS**, and **SQS**.
@@ -60,10 +58,9 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ---
 
+![Macy's Logo](assets/img/macys-logo.png)
 ### **Client: Macy's, Hyderabad, TG** (July 2019 - Dec 2020)  
 **Role**: Java Full Stack Developer  
-![Macy's Logo](assets/img/macys-logo.png)
-
 **Responsibilities**:
 - Implemented **microservices** architecture using **Spring Boot**, **Spring Cloud**.
 - Developed interactive UIs using **ReactJS**, **Flux** for efficient Single Page Application (SPA).
@@ -71,10 +68,9 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ---
 
+![Chase Logo](assets/img/chase-logo.png)
 ### **Client: Chase, Hyderabad, TG** (Feb 2018 - Jul 2019)  
 **Role**: Java Full Stack Developer  
-![Chase Logo](assets/img/chase-logo.png)
-
 **Responsibilities**:
 - Worked on **Java 11** features such as **Lambda expressions** and **Stream API** for efficient data processing.
 - Designed UI with **ReactJS** and developed microservices for tax calculations integration using **Spring Boot**.
@@ -84,10 +80,9 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ## Education
 
+![University Logo](assets/img/university-of-dayton-logo.png)
 ### **Masters in Computer Science**
 University of Dayton, 2023  
-![University Logo](assets/img/university-of-dayton-logo.png)
-
 ---
 
 ## Key Projects
@@ -124,9 +119,9 @@ Feel free to reach out for project collaborations, freelance opportunities, or j
 
 **Phone**: (513) 916-4463  
 **E-Mail**: [Vinaykrgadila@gmail.com](mailto:Vinaykrgadila@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/vinaykrgadila) | [GitHub](https://github.com/vinaykrgadila)
+[LinkedIn](https://www.linkedin.com/in/vinayreddygadila) | [GitHub](https://github.com/Vinay321a)
 
 ---
 
 ### Disclaimer
-The information contained in this document is provided for the purpose of outlining the qualifications and experiences of **Vinay Kumar Reddy Gadila** and is subject to change. This readme serves as a summary of professional experience and achievements as of the latest update.
+The website is created and maintained by ** Vinay Kumar Reddy Gadila** .
