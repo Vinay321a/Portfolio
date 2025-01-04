@@ -80,7 +80,7 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ## Education
 
-![University Logo](assets/img/university-of-dayton-logo.png)
+![University Logo](assets/download-2.png)
 ### **Masters in Computer Science**
 University of Dayton, 2023  
 ---
