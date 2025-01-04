@@ -1,6 +1,6 @@
 # Java Full Stack Developer
 
-![Profile Image](assets/profile_pic.jpeg) 
+![Profile Image](assets/profile_pic.jpg) 
 
 **Phone**: (513) 916-4463  
 **E-Mail**: [Vinaykrgadila@gmail.com](mailto:Vinaykrgadila@gmail.com)  
