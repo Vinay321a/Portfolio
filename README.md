@@ -1,6 +1,6 @@
 # Vinay Kumar Reddy Gadila | Java Full Stack Developer
 
-[![Profile Image](assets/img/profile_pic.jepg)](https://www.linkedin.com/in/vinaykrgadila) 
+[![Profile Image](assets/profile_pic.jepg)](https://www.linkedin.com/in/vinaykrgadila) 
 
 **Phone**: (513) 916-4463  
 **E-Mail**: [Vinaykrgadila@gmail.com](mailto:Vinaykrgadila@gmail.com)  
