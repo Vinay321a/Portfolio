@@ -31,9 +31,6 @@
 <body>
     <!-- Header Section -->
     <div class="header">
-        <!-- Profile Image -->
-        <img src="/assets/profile_pic.jpg" alt="Vinay Kumar Reddy Gadila">
-
         <!-- Name and Subtitle -->
         <div>
             <p>Vinay Kumar Reddy Gadila</p>
