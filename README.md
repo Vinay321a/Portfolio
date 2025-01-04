@@ -37,7 +37,7 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ## Professional Experience
 
-![Caltrans Logo](assets/Caltrans.png)
+![Caltrans Logo](assets/Caltrans.jpg)
 ### **Client: Caltrans, San Francisco, CA** (Jan 2023 - Present)  
 **Role**: Full-stack Java Developer  
 **Responsibilities**:
