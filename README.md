@@ -1,5 +1,41 @@
-# Vinay Kumar Reddy Gadila
-## Java Full Stack Developer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinay Kumar Reddy Gadila - Full Stack Java Developer</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Custom styles for the name at the top */
+        .header {
+            text-align: center;
+            background-color: #f1f1f1;
+            padding: 50px 20px;
+            font-size: 36px;
+            font-weight: bold;
+            color: #0073e6; /* Blue color */
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <div class="header">
+        <p>Vinay Kumar Reddy Gadila</p>
+        <p style="font-size: 20px; font-weight: normal;">Java Full Stack Developer</p>
+    </div>
+
+    <!-- Main content of the portfolio goes here -->
+    <div class="container">
+        <!-- Portfolio content such as sections, links, etc. -->
+    </div>
+
+    <!-- Footer Section -->
+    <footer style="text-align: center; padding: 20px; background-color: #f1f1f1; margin-top: 50px; font-size: 16px;">
+        <p style="font-weight: bold; color: #333;">This webpage is created and maintained by <span style="color: #0073e6; font-weight: bold;">Vinay Kumar Reddy Gadila</span></p>
+        <p>Feel free to reach out for project collaborations or tech discussions!</p>
+    </footer>
+</body>
+</html>
 
 ![Profile Image](assets/profile_pic.jpg) 
 
