@@ -48,7 +48,7 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ---
 
-![Great American Insurance Logo](assets/img/great-american-insurance-logo.png)
+![Great American Insurance Logo](assets/logo-gaig.png)
 ### **Client: Great American Insurance, Cincinnati, OH** (Jan 2021 - Dec 2022)  
 **Role**: Full-stack Java Developer  
 **Responsibilities**:
