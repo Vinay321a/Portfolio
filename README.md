@@ -68,7 +68,7 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ---
 
-![Chase Logo](assets/img/chase-logo.png)
+![Chase Logo](assets/Chase.png)
 ### **Client: Chase, Hyderabad, TG** (Feb 2018 - Jul 2019)  
 **Role**: Java Full Stack Developer  
 **Responsibilities**:
