@@ -1,43 +1,9 @@
 <html lang="en">
-<head>
-        <style>
-        /* Custom styles for the header */
-        .header {
-            display: flex;
-            align-items: center; /* Vertically align items in the center */
-            background-color: #f1f1f1;
-            padding: 30px 20px;
-            font-size: 36px;
-            font-weight: bold;
-            color: #0073e6; /* Blue color */
-        }
-
-        /* Style for the profile image */
-        .header img {
-            width: 100px; /* Adjust size of the profile picture */
-            height: 100px;
-            border-radius: 50%; /* Make the image circular */
-            margin-right: 20px; /* Space between the image and name */
-        }
-
-        /* Subtitle style */
-        .header p.subtitle {
-            font-size: 20px;
-            font-weight: normal;
-            color: #333; /* Default text color */
-        }
-    </style>
-</head>
-<body>
-    <!-- Header Section -->
-    <div class="header">
         <!-- Name and Subtitle -->
         <div>
-            <p>Vinay Kumar Reddy Gadila</p>
+            <p color= #333 >Vinay Kumar Reddy Gadila</p>
             <p class="subtitle">Java Full Stack Developer</p>
         </div>
-    </div>
-</body>
 </html>
 ![Profile Image](assets/profile_pic.jpg)
 
