@@ -99,9 +99,9 @@ University of Dayton, 2023
 
 ## Certifications
 
-- **AWS Certified Solutions Architect**
-- **Oracle Certified Java Programmer**
-- **Spring Framework Certification**
+- **Microsoft Certified Azure Architect**
+- **Cisco Certified CCNA**
+- **Java Certification**
 
 ---
 
