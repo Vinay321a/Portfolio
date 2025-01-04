@@ -1,4 +1,4 @@
-# Vinay Kumar Reddy Gadila | Java Full Stack Developer
+# Java Full Stack Developer
 
 ![Profile Image](assets/profile_pic.jepg) 
 
