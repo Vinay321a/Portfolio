@@ -21,8 +21,6 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ## Technical Skills
 
-![Tech Stack Image](assets/img/tech-stack.jpg)
-
 ### Languages:
 - C, C++, Java (J2SE, J2EE), SQL, PL/SQL, Python, Scala, Go, Kotlin, Groovy
 
