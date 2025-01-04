@@ -44,11 +44,6 @@
             <p class="subtitle">Java Full Stack Developer</p>
         </div>
     </div>
-
-    <!-- Main content of the portfolio goes here -->
-    <div class="container">
-        <!-- Portfolio content such as sections, links, etc. -->
-    </div>
 </body>
 </html>
 
