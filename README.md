@@ -121,8 +121,8 @@ Feel free to reach out for project collaborations, freelance opportunities, or j
 **E-Mail**: [Vinaykrgadila@gmail.com](mailto:Vinaykrgadila@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/vinayreddygadila) | [GitHub](https://github.com/Vinay321a)
 
----
 
-### Disclaimer
-The website is created and maintained by **Vinay Kumar Reddy Gadila** .
+<footer style="text-align: center; padding: 20px; background-color: #f1f1f1; margin-top: 50px; font-size: 16px;">
+    <p style="font-weight: bold; color: #333;">This webpage is created and maintained by <span style="color: #0073e6;">Vinay Kumar Reddy Gadila</span></p>
+</footer> .
 
