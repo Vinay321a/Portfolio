@@ -58,7 +58,7 @@ With around **7 years of experience** as a Full Stack Java Developer, I have wor
 
 ---
 
-![Macy's Logo](assets/img/macys-logo.png)
+![Macy's Logo](assets/download.png)
 ### **Client: Macy's, Hyderabad, TG** (July 2019 - Dec 2020)  
 **Role**: Java Full Stack Developer  
 **Responsibilities**:
